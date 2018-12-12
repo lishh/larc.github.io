@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luciano A. Romero Calla"
+title                    : "Luciano Arnaldo Romero Calla"
 title_separator          : "-"
 name                     : &name "Luciano A. Romero Calla"
-description              : &description "personal description"
+description              : &description "personal site"
 url                      : https://larc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larc/larc.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luciano A. Romero Calla"
+  name             : "Luciano Arnaldo Romero Calla"
   avatar           : "profile.png"
   bio              : "I'm a computer scientist who loves to learn and solve problems."
   location         : "Location"
