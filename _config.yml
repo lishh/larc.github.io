@@ -86,9 +86,9 @@ author:
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com.pe/citations?user=zVqrvXsAAAAJ&hl=en"
-  email            : ""
-  uri              : ""
-  bitbucket        : ""
+  email            : 
+  uri              : 
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
@@ -100,13 +100,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "luciano.romero.calla"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
