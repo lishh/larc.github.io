@@ -11,7 +11,7 @@ title                    : "Luciano Arnaldo Romero Calla"
 title_separator          : "-"
 name                     : &name "Luciano A. Romero Calla"
 description              : &description "personal site"
-url                      : https://larc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://larc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larc/larc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Luciano Arnaldo Romero Calla"
   avatar           : "profile.png"
   bio              : "I'm a computer scientist who loves to learn and solve problems."
-  location         : "Location"
+  location         : "Arequipa" 
   employer         :
   googlescholar    : "https://scholar.google.com.pe/citations?user=zVqrvXsAAAAJ&hl=en"
   email            : 
