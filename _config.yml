@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luciano Arnaldo Romero Calla"
+title                    : "Lizeth Joseline Fuentes Pérez"
 title_separator          : "-"
-name                     : &name "Luciano Arnaldo Romero Calla"
+name                     : &name "Lizeth Joseline Fuentes Pérez"
 description              : &description "personal site"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luciano Arnaldo Romero Calla"
+  name             : "Lizeth Joseline Fuentes Pérez"
   avatar           : "profile.png"
-  bio              : "I'm a computer scientist who loves to learn and solve problems."
+  bio              : "I want to make an impact in human living, creating cutting-edge technology."
   location         : "Arequipa" 
   employer         :
-  googlescholar    : "https://scholar.google.com.pe/citations?user=zVqrvXsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.es/citations?user=yjixYT8AAAAJ&hl=es"
   email            : 
   uri              : 
   bitbucket        : 
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "larc"
+  github           : "lishh"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "larc"
+  linkedin         : "lishh"
   orcid            : 
   pinterest        :
   soundcloud       :
