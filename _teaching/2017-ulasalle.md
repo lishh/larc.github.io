@@ -8,5 +8,5 @@ date: 2017-08-21
 location: "Arequipa, Peru"
 ---
 
-Courses: Theory of Computations, Algorithms and Data Structures, Objects and Data Abstractions.
+Courses: Programming Languages, Algorithms, Objects and Data Abstractions.
 

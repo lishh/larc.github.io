@@ -8,5 +8,5 @@ date: 2018-03-19
 location: "Arequipa, Peru"
 ---
 
-Courses: Analysis and Design of Algorithms, Theory of Computations, Algorithms and Data Structures, Objects and Data Abstractions.
+Courses: Algorithms and Data Structures, Programming Languages.
 
