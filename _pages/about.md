@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m a computer scientist with an MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil. Prior, I have earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru. My research interest is about geometry processing, shape analysis, computational geometry, machine learning, and computer vision. I also have an interest in algorithms, data structures, graphs, and parallel programming. I like to solve competitive programming problems within my free time.
+I’m currently a lecturer in Computer Science at La Salle University. I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil.
+I am interested in geometry processing, shape analysis, machine learning, and computer vision. I also have an interest in algorithms, data structures and problem-solving.
 
 Recent Works
 ======
@@ -17,6 +18,6 @@ Recent Works
 
 ![](../images/gproshan.png)
 
-[Lizeth](https://lishh.github.io/) and me are building this framework that includes some algorithms of Geometry Processing and Shape Analysis as part of our graduate research.
+Gproshan is a framework, which contains some algorithms of Geometry Processing and Shape Analysis. We are developing this framework with Luciano[https://larc.github.io/] as part of our graduate research.
 See our [repository](https://github.com/larc/gproshan) and [publications](publications.md) for more information.
 
