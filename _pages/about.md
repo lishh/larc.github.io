@@ -18,6 +18,6 @@ Recent Works
 
 ![](../images/gproshan.png)
 
-Gproshan is a framework, which contains some algorithms of Geometry Processing and Shape Analysis. We are developing this framework with Luciano[https://larc.github.io/] as part of our graduate research.
+Gproshan is a framework, which contains some algorithms of Geometry Processing and Shape Analysis. We are developing this framework with [Luciano](https://larc.github.io/) as part of our graduate research.
 See our [repository](https://github.com/larc/gproshan) and [publications](publications.md) for more information.
 
