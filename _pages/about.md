@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a lecturer in Computer Science at La Salle University. I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil.
-I am interested in geometry processing, shape analysis, machine learning, and computer vision. I also have an interest in algorithms, data structures and problem-solving.
+I am a Ph.D. student at the Visualization and MultiMedia Lab of the University of Zurich, working as an Early-Stage Researcher in the H2020 MSCA-ITN project EVOCATION, in the problem of indoor reconstruction of scenes.  
+I am proud of being awarded the GHC 2020 scholarship to attend the largest gathering of women in technology, known as the Grace Hopper Celebration.
+ I earned my BSc degree in computer science from the National University of Saint Augustine, Arequipa - Peru, and my MSc degree in computer science from Federal Fluminense University, Niteroi - Brazil.
+My research interests are geometry processing, shape analysis, machine learning, and computer vision.
 
 Recent Works
 ======
