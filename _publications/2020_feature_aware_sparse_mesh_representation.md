@@ -5,8 +5,6 @@ permalink: /publication/feature_aware_sparse_mesh_representation
 date: 2020-11-01
 authors: 'Lizeth J. Fuentes Pérez, Luciano A. Romero Calla, Anselmo A. Montenegro, Claudio Mura, Renato Pajarola'
 venue: 'Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers'
-simage: pg2020.jpg
-excerpt: ''
 ---
 
 ![](../images/pg2020.jpg)
