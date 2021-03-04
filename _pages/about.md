@@ -16,10 +16,11 @@ My research interests are geometry processing, shape analysis, machine learning,
 Recent Works
 ======
 
-## gproshan (geometry processing and shape analysis framework)
+## State-of-the-art in Automatic 3D Reconstruction of Structured Indoor Environments
 
-![](../images/gproshan.png)
+![](../images/star.jpg)
 
-Gproshan is a framework, which contains some algorithms of Geometry Processing and Shape Analysis. We are developing this framework with [Luciano](https://larc.github.io/) as part of our graduate research.
-See our [repository](https://github.com/larc/gproshan) and [publications](publications.md) for more information.
+Creating high-level structured 3D models of real-world indoor scenes from captured data is a fundamental task which has important applications in many fields. Given the complexity and variability of interior environments and the need to cope with noisy and partial captured data, many open research problems remain, despite the substantial progress made in the past decade. In this survey, we provide an up-to-date integrative view of the field, bridging complementary views coming from computer graphics and computer vision. After providing a characterization of input sources, we define the structure of output models and the priors exploited to bridge the gap between imperfect sources and desired output. We then identify and discuss the main components of a structured reconstruction pipeline, and review how they are combined in scalable solutions working at the building level. We finally point out relevant research issues and analyze research trends.v
+
+**DOI:** [10.1111/cgf.14021](https://doi.org/10.1111/cgf.14021)<br/>
 
