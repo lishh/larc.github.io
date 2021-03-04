@@ -5,8 +5,6 @@ permalink: /publication/minimalistic_fast_computation_geodesics_distances_triang
 date: 2019-09-02
 authors: 'Luciano A. Romero Calla, Lizeth J. Fuentes Pérez, Anselmo A. Montenegro'
 venue: 'Computers & Graphics'
-simage: cag2019.png
-excerpt: ''
 ---
 
 ![](../images/cag2019.png)
